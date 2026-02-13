@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit168&label=Profile%20views&color=0e75b6&style=flat" alt="arpit168" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpit168" alt="arpit168" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpit168" alt="arpit168" /></a> </p> -->
 
 - 🔭 I’m currently working on **E-Commerce Web Application (React + Tailwind CSS)**
 
