@@ -45,7 +45,7 @@ Passionate frontend developer from India focused on crafting smooth, accessible 
 | Payments | Stripe integration |
 | Status | 🟡 In Progress |
 
-**→ [View Repository](https://github.com/arpit168)** ← *(add your actual repo link here)*
+**→ [View Repository](https://github.com/arpit168)** ← *https://github.com/arpit168?tab=repositories*
 
 ---
 
