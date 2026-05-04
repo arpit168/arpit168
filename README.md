@@ -52,7 +52,7 @@ Passionate frontend developer from India focused on crafting smooth, accessible 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpit168&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit168&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
