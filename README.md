@@ -67,7 +67,7 @@ Passionate frontend developer from India focused on crafting smooth, accessible 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arpit%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-gupta-4a3343331/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-arpit0406-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/arpit0406/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-anokha__arpit-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/anokha_arpit)
-[![Instagram](https://img.shields.io/badge/Instagram-anokha__arpit-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anokha_arpit/)
+[![Instagram](https://img.shields.io/badge/Instagram-anokha__arpitt-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anokha_arpitt/)
 
 </div>
 
