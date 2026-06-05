@@ -52,19 +52,6 @@ Passionate frontend developer from India focused on crafting smooth, accessible 
 ## GitHub Stats
 
 <div align="center">
-
-  <!-- GitHub Stats -->
-
-
-  <!-- GitHub Streak -->
-  <img 
-    height="170" 
-    src="https://streak-stats.demolab.com?user=arpit168&theme=tokyonight&hide_border=true" 
-  />
-
-
-  <br/><br/>
-
   <!-- Activity Graph -->
   <img 
     width="95%" 
