@@ -17,7 +17,7 @@ I'm a **passionate full-stack developer** from India obsessed with building beau
 <table>
   <tr>
     <td>🏢 <b>Role</b></td>
-    <td>MERN Stack Developer | Frontend Engineer</td>
+    <td>MERN Stack Developer | Frontend - Backend Engineer</td>
   </tr>
   <tr>
     <td>🎯 <b>Focus</b></td>
