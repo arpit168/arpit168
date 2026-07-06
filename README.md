@@ -82,7 +82,7 @@ I'm a **Full Stack MERN Developer** from **India 🇮🇳** passionate about bui
 - Payment Integration
 - Responsive UI
 
-🔗 Repository • Live Demo
+🔗 Repository • Live Demo • https://portfolio-of-arpitgupta.netlify.app/
 
 ---
 
