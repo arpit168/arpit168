@@ -83,6 +83,8 @@ I'm a **Full Stack MERN Developer** from **India 🇮🇳** passionate about bui
 - Responsive UI
 
 🔗 Repository • Live Demo • https://portfolio-of-arpitgupta.netlify.app/
+Live Project https://inventory-management-alpha-brown.vercel.app/
+
 
 ---
 
