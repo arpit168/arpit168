@@ -144,7 +144,7 @@ Modern developer portfolio with smooth animations and responsive design.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/arpit168)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge)](https://arpitgupta.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge)](https://portfolio-of-arpitgupta.netlify.app/)
 
 ---
 
