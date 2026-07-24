@@ -82,7 +82,8 @@ I'm a **Full Stack MERN Developer** from **India 🇮🇳** passionate about bui
 - Payment Integration
 - Responsive UI
 
-🔗 Repository • Live Demo • https://portfolio-of-arpitgupta.netlify.app/  ||  https://inventory-management-alpha-brown.vercel.app/
+<div>🔗 Repository • Live Demo • https://portfolio-of-arpitgupta.netlify.app/  ||  https://inventory-management-alpha-brown.vercel.app/</div>
+<div>🔗 Repository • Live Demo • https://forever-clothes-store-by-arpit.netlify.app/ ||  https://cravings-food-zone-by-arpit.netlify.app/</div>
 
 
 
