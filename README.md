@@ -128,7 +128,7 @@ I'm a **Full Stack MERN Developer** from **India 🇮🇳** passionate about bui
 <div align="center">
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit168&layout=compact&theme=tokyonight&hide_border=true)
+
 
 <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit168&theme=radical&hide_border=true&background=0d1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=667eea&sideLabels=667eea&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" width="700"/>
 
