@@ -74,10 +74,6 @@ I'm a **Full Stack MERN Developer** from **India 🇮🇳** passionate about bui
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
 <br><b>MySQL</b>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br><b>Firebase</b>
-</td>
 </tr>
 </table>
 
