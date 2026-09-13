@@ -1,367 +1,253 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=260&section=header&text=Arpit%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20React%20|%20Node.js%20|%20MongoDB&descSize=18&descAlignY=65&animation=fadeIn)
+# 👋 Hi, I'm Arpit Gupta
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=💻+MERN+Stack+Developer;🚀+Building+Scalable+Web+Applications;🎯+Clean+Code+%7C+Modern+UI+%7C+Performance)](https://git.io/typing-svg)
+### Full Stack Developer | MERN Stack | Backend & System Design Learner
+
+Building practical, production-oriented web applications with **React, Node.js, Express and MongoDB**.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/arpit168)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/arpit-gupta-4a3343331/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge)](https://portfolio-of-arpitgupta.netlify.app/)
 
 </div>
 
 ---
 
-# 👋 About Me
+## 👨‍💻 About Me
 
-I'm a **Full Stack MERN Developer** from **India 🇮🇳** passionate about building fast, scalable and user-friendly web applications.
+I'm a **Full Stack Developer from India** focused on building responsive, maintainable and user-focused web applications.
 
-- 🚀 Building Full Stack Applications
-- 🌱 Learning System Design & Advanced Backend
-- 💡 Love Clean UI & Optimized Code
-- 🎯 Open to Freelance & Full-Time Opportunities
+* 🔭 Building full-stack applications with the MERN stack
+* 🧩 Working with REST APIs, authentication and database-driven applications
+* 🌱 Currently learning **System Design, Advanced Backend Development and ASP.NET Core**
+* 🛠️ Interested in clean architecture, API design and production-ready development
+* 📚 Continuously improving JavaScript, backend and database fundamentals
+* 💼 Open to **full-time and freelance opportunities**
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🧰 Tech Stack
 
-<div align="center">
+### Frontend
 
-### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<br><b>React</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br><b>Next.js</b>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<br><b>JavaScript</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br><b>Tailwind</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br><b>HTML5</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br><b>CSS3</b>
-</td>
-</tr>
-</table>
+**HTML5 · CSS3 · JavaScript · React · Next.js · Tailwind CSS**
 
-### ⚙️ Backend & Database
+### Backend & Database
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br><b>Node.js</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br><b>Express</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br><b>MongoDB</b>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-<br><b>MySQL</b>
-</td>
-</tr>
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
-### 🔧 Tools & Platforms
+**Node.js · Express.js · MongoDB · MySQL · REST APIs · JWT Authentication**
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br><b>Git</b>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-<br><b>GitHub</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br><b>VS Code</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br><b>Figma</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-<br><b>Vercel</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
-<br><b>Netlify</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br><b>Postman</b>
-</td>
-</tr>
-</table>
+### Tools & Platforms
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify" />
+</p>
 
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br/>	
-
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-
-
-
-<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit168&theme=radical&hide_border=true&background=0d1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=667eea&sideLabels=667eea&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" width="700"/>
-
-<div/>
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=arpit168&theme=tokyo-night&hide_border=true)
-
-
-
-
-
-</div>
+**Git · GitHub · VS Code · Figma · Postman · Vercel · Netlify**
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 📦 Inventory Management System
 
-<table>
-<tr>
-<td width="50%">
+A full-stack inventory management application designed to manage products, stock, reports and business operations.
+
+**Tech:** React · Node.js · Express · MongoDB · JWT
+
+**Highlights**
+
+* 🔐 Authentication and protected routes
+* 📦 Product and inventory management
+* 📊 Dashboard and analytics
+* 🔎 Search and filtering
+* 📈 Reports and business insights
+* 📱 Responsive interface
+
+🔗 **Live:** https://inventory-management-alpha-brown.vercel.app/
+
+🔗 **Repository:** https://github.com/arpit168/Inventory-Management
+
+---
 
 ### 🛒 E-Commerce Platform
-<br/>
-<a href="https://forever-clothes-store-by-arpit.netlify.app/">
-<img src="https://img.shields.io/badge/LIVE-Forever_Clothes_Store-667eea?style=for-the-badge&logo=netlify&logoColor=white"/>
-</a>
-<br/><br/>
-<p>
-Full Stack MERN e-commerce with secure auth & Stripe payments
-</p>
 
-**Tech Used:**
+A full-stack e-commerce application with product browsing, authentication, cart management, checkout and payment integration.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**Tech:** React · Node.js · MongoDB · Stripe · Tailwind CSS
 
-**Key Features:**
-- 🔐 JWT Authentication
-- 🛍️ Shopping Cart & Checkout
-- 👨‍💼 Admin Dashboard
-- 💳 Stripe Payment Integration
-- 📱 Fully Responsive UI
+**Highlights**
 
-</td>
-<td width="50%">
+* 🔐 JWT authentication
+* 🛍️ Shopping cart and checkout
+* 👨‍💼 Admin dashboard
+* 💳 Stripe payment integration
+* 📱 Responsive UI
 
-### 📦 Inventory Management
-<br/>
-<a href="https://inventory-management-alpha-brown.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE-Inventory_System-764ba2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<br/><br/>
-<p>
-Comprehensive inventory tracking and management solution
-</p>
+🔗 **Live:** https://forever-clothes-store-by-arpit.netlify.app/
 
-**Tech Used:**
+🔗 **Repository:** https://github.com/arpit168/E-Commerce
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+---
 
-**Key Features:**
-- 📊 Real-time Dashboard
-- 📋 Product Management
-- 📈 Analytics & Reports
-- 🔍 Search & Filter
-- 📱 Responsive Design
+### 🍕 Food Delivery Application
 
-</td>
-</tr>
+A food ordering platform focused on browsing, cart management, online payments and order tracking.
 
-<tr>
-<td width="50%">
+**Tech:** React · Node.js · MongoDB · Stripe
 
-### 🍕 Food Delivery App
-<br/>
-<a href="https://cravings-food-zone-by-arpit.netlify.app/">
-<img src="https://img.shields.io/badge/LIVE-Cravings_Food_Zone-f093fb?style=for-the-badge&logo=netlify&logoColor=white"/>
-</a>
-<br/><br/>
-<p>
-Online food ordering platform with real-time tracking
-</p>
+**Highlights**
 
-**Tech Used:**
+* 🍔 Menu browsing
+* 🛒 Cart management
+* 💳 Online payment
+* 📍 Order tracking
+* ⭐ Restaurant ratings
+* 🔐 User authentication
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
+🔗 **Live:** https://cravings-food-zone-by-arpit.netlify.app/
 
-**Key Features:**
-- 🍔 Menu Browsing & Cart
-- 💳 Online Payment
-- 📍 Order Tracking
-- ⭐ Restaurant Ratings
-- 🔐 User Authentication
+---
 
-</td>
-<td width="50%">
+### 💼 Developer Portfolio
 
-### 💼 Portfolio Website
-<br/>
-<a href="https://portfolio-of-arpitgupta.netlify.app/">
-<img src="https://img.shields.io/badge/LIVE-My_Portfolio-667eea?style=for-the-badge&logo=netlify&logoColor=white"/>
-</a>
-<br/><br/>
-<p>
-Modern developer portfolio with smooth animations
-</p>
+A responsive developer portfolio showcasing projects, skills and professional information.
 
-**Tech Used:**
+**Tech:** React · Next.js · Tailwind CSS · Framer Motion
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+**Highlights**
 
-**Key Features:**
-- 🌗 Dark/Light Mode
-- ✨ Smooth Animations
-- 📁 Project Showcase
-- 📬 Contact Form
-- 📱 Fully Responsive
+* 🌗 Dark / Light mode
+* ✨ Smooth animations
+* 📁 Project showcase
+* 📬 Contact form
+* 📱 Responsive design
 
-</td>
-</tr>
-</table>
+🔗 **Live:** https://portfolio-of-arpitgupta.netlify.app/
 
-</div>
+---
 
-<br/>
+## 🧠 Core Development Skills
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+### Frontend
 
-<br/>
+* React
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Responsive UI
+* State Management
 
-## 🎯 Core Competencies
+### Backend
 
-<div align="center">
+* Node.js
+* Express.js
+* REST API development
+* JWT Authentication
+* CRUD operations
+* API integration
 
-```
-┌────────────────────────────────────────────────────────────────┐
-│                                                                │
-│   ⚛️  React & Next.js        ████████████████████░░  90%      │
-│   🟢 Node.js & Express      ███████████████████░░░  85%      │
-│   🍃 MongoDB & MySQL        ██████████████████░░░░  80%      │
-│   🔗 REST API Design        ████████████████████░░  90%      │
-│   🔐 Auth (JWT/OAuth)       ██████████████████░░░░  80%      │
-│   📦 State Management       ███████████████████░░░  85%      │
-│   🎨 UI/UX & Tailwind       ████████████████████░░  90%      │
-│   🔄 Git & Version Control  ██████████████████░░░░  80%      │
-│                                                                │
-└────────────────────────────────────────────────────────────────┘
+### Database
+
+* MongoDB
+* MySQL
+* Mongoose
+* Database-driven application design
+
+### Development Practices
+
+* Git & GitHub
+* API testing with Postman
+* Environment variables
+* Authentication & authorization
+* Deployment
+* Responsive development
+
+---
+
+## 📈 Currently Learning
+
+I'm currently expanding my backend and software-engineering knowledge:
+
+* 🟦 **C# & ASP.NET Core**
+* ☕ **Java & Spring Boot**
+* 🏗️ **System Design**
+* 🔐 **Backend Security**
+* 🧪 **Testing & Code Quality**
+* 🐳 **Docker & Deployment**
+* ⚡ **Performance & API Optimization**
+
+---
+
+## 🎯 What I'm Working Toward
+
+My current goal is to move from simply **building applications** to building applications that are:
+
+```text
+Maintainable
+     ↓
+Secure
+     ↓
+Testable
+     ↓
+Scalable
+     ↓
+Production Ready
 ```
 
+I'm especially interested in **full-stack development, backend engineering and system design**.
+
+---
+
+## 💻 Coding Profiles
+
+<p>
+<a href="https://leetcode.com/u/arpit0406/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/anokha_arpit">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arpit168&show_icons=true&hide_border=true&theme=transparent" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit168&hide_border=true&theme=transparent" />
+
 </div>
 
-# 🎯 Core Skills
-
-✅ React & Next.js
-
-✅ Node.js & Express
-
-✅ MongoDB & MySQL
-
-✅ REST APIs
-
-✅ Authentication (JWT)
-
-✅ State Management (Redux & Zustand)
-
-✅ Responsive UI
-
-✅ Git & GitHub
-
 ---
 
-# 🏆 Coding Profiles
+## 🤝 Let's Connect
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/arpit0406/)
+I'm open to opportunities where I can contribute, learn and grow as a software developer.
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/anokha_arpit)
-
----
-
-# 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpit-gupta-4a3343331/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/arpit168)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge)](https://portfolio-of-arpitgupta.netlify.app/)
+* 💼 LinkedIn: https://www.linkedin.com/in/arpit-gupta-4a3343331/
+* 💻 GitHub: https://github.com/arpit168
+* 🌐 Portfolio: https://portfolio-of-arpitgupta.netlify.app/
 
 ---
 
 <div align="center">
 
-## ✨ What I Improved
+### 🚀 Build. Learn. Improve. Repeat.
 
-| Area | Changes |
-|---|---|
-| **Header** | Richer gradient, twinkling animation, stroke effect |
-| **About Me** | YAML code block + animated coding GIF side-by-side |
-| **Tech Stack** | Icon tables with `skillicons` & `techstack-generator` instead of flat badges |
-| **GitHub Stats** | Custom color theme matching profile palette + streak stats + activity graph |
-| **Projects** | 2×2 table grid layout, each with live badges, tech pills & feature bullets |
-| **Skills** | ASCII progress bar visualization |
-| **LeetCode** | Embedded heatmap card via `leetcard` |
-| **Snake** | Contribution snake animation |
-| **Connections** | Larger buttons with spacing + profile view counter |
-| **Quotes** | Dynamic random dev quote via API |
-| **Dividers** | Animated rainbow line separators |
-| **Footer** | Reversed gradient footer matching header |
-
-
-### 💡 Quote
-
-> **"Great code is simple, scalable and solves real problems."**
-
-⭐ If you like my work, consider giving a star!
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=100:f093fb,50:764ba2,0:667eea&height=150&section=footer)
+**Thanks for visiting my profile!**
 
 </div>
-
-
