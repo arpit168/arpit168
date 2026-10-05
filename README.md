@@ -32,10 +32,10 @@ I'm a **Full Stack Developer from India** focused on building responsive, mainta
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-**HTML5 · CSS3 · JavaScript · React · Next.js · Tailwind CSS**
+**HTML5 · CSS3 · JavaScript ·TypeScript · React · Next.js · Tailwind CSS**
 
 ### Backend & Database
 
